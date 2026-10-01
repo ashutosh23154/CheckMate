@@ -1,6 +1,6 @@
 <div align="center">
 
-# ♟️ CheckMate
+# CheckMate
 
 ### *Explainable Claim Check-Worthiness Detection via Rationality-Guided Multi-Task Learning*
 
@@ -533,32 +533,17 @@ Implements the standard sinusoidal positional encoding from *Vaswani et al., "At
 ---
 
 ## Citation
-
-If you use CheckMate in your research, please cite the original paper and this implementation:
-
 ```bibtex
-@misc{checkmate2026,
-  title        = {CheckMate: Explainable Claim Check-Worthiness via Rationality-Guided Multi-Task Learning},
-  author       = {Mahen},
-  year         = {2026},
-  note         = {Implementation of "Leveraging Rationality Labels for Explainable Claim Check-Worthiness"},
-  howpublished = {\url{https://github.com/<your-username>/CheckMate}},
-}
-```
-
-```bibtex
-@inproceedings{khosla2020supervised,
-  title     = {Supervised Contrastive Learning},
-  author    = {Khosla, Prannay and Tian, Yonglong and Wang, Yueqi and others},
-  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
-  year      = {2020}
+@misc{sundriyal2023leveraging,
+  title         = {Leveraging Social Discourse to Measure Check-worthiness of Claims for Fact-checking},
+  author        = {Megha Sundriyal and Md Shad Akhtar and Tanmoy Chakraborty},
+  year          = {2023},
+  eprint        = {2309.09274},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  doi           = {10.48550/arXiv.2309.09274},
+  url           = {https://arxiv.org/abs/2309.09274},
 }
 ```
 
 ---
-
-<div align="center">
-
-Made with ♟️ for explainable NLP
-
-</div>
